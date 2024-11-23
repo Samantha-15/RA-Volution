@@ -126,12 +126,61 @@ El 'machine learning' (aprendizaje automático) es una rama de la inteligencia a
 Es un campo inherentemente multidisciplinario y emergente en el cual se conjuntan la física, la biología, la química, la ingeniería y las ciencias sociales. Su objetivo es entender, caracterizar, manipular y explotar las características físicas de la materia a la nanoescala, para generar innovaciones tecnológicas teniendo en consideración su impacto social y ambiental. Se trata de una tecnología clave que constituye una de las áreas que aportará mayor desarrollo al siglo XXI al originar aplicaciones basadas en los fenómenos que suceden a escalas atómicas (1 nanómetro es 1 millonésimo de milímetro).
 
 #### Realidades (Aumentada, Virtual e Híbrida)
+ - La realidad aumentada combina elementos digitales con el mundo físico en tiempo real.
+ - La realidad virtual sumerge completamente al usuario en un entorno generado por ordenador, aislándolo del mundo real.
+ - La realidad híbrida combina elementos de la RA y la RV, permitiendo que objetos virtuales y reales interactúen entre sí.
 
 
 ### Impacto en las otras áreas
+
 #### Medica 
+Medicina Personalizada: Gracias al Proyecto Genoma Humano y la secuenciación genética avanzada, hoy en día es posible ofrecer tratamientos más precisos para enfermedades como el cáncer, al identificar las características genéticas de los pacientes. Además, la tecnología de ARN mensajero en las vacunas contra el COVID-19 ha demostrado su eficacia en un tiempo récord, transformando la forma en que respondemos a pandemias.
+
 #### Transporte
+Vehículos Autónomos: Los avances en vehículos autónomos (como los desarrollos de Tesla) están comenzando a transformar la industria automotriz. Aunque aún no son completamente autónomos en todos los aspectos, la tecnología está avanzando rápidamente, prometiendo una mayor seguridad vial, menos accidentes humanos y más eficiencia en el tráfico.
+Movilidad Eléctrica: El crecimiento de los vehículos eléctricos, impulsado por Tesla y otros fabricantes, ha cambiado la forma en que las personas piensan sobre el transporte. Esto está ayudando a reducir las emisiones de CO2 y a hacer que la movilidad sea más sostenible.
+
 #### Construcción
+La tecnología ha sido un factor clave en la evolución de la arquitectura y la construcción de edificios. Desde la llegada del modelado 3D hasta la utilización de la realidad virtual y aumentada, la tecnología ha permitido a los arquitectos y constructores visualizar y crear diseños de manera más eficiente y precisa. Además, la tecnología ha permitido la implementación de nuevos materiales y procesos de construcción, así como la incorporación de sistemas de gestión de edificios y automatización para crear edificios más eficientes y sostenibles. 
+
 #### Alimenticia
+Agricultura de Precisión: Los drones y sensores IoT están siendo utilizados por agricultores para monitorear los cultivos en tiempo real. Esto les permite optimizar el uso del agua, fertilizantes y pesticidas, lo que reduce el impacto ambiental y mejora la productividad.
+Biotecnología: Los cultivos genéticamente modificados han permitido que los agricultores obtengan productos más resistentes a plagas y enfermedades, lo que contribuye a una mayor seguridad alimentaria.
+
 #### Administrativa
-#### Industria
+La tecnología ha revolucionado la administración de empresas en varias formas. Una de las áreas más significativas es la comunicación. Las herramientas digitales como el correo electrónico, las videoconferencias y las plataformas de colaboración en línea han facilitado una comunicación más rápida y eficiente, eliminando las barreras geográficas y mejorando la coordinación entre equipos dispersos.
+Además, la tecnología ha permitido una mayor automatización de procesos administrativos. Las tareas repetitivas y rutinarias, como la entrada de datos y la generación de informes, pueden ser automatizadas, liberando tiempo para que los empleados se concentren en actividades de mayor valor añadido.
+
+#### Industrial 
+La industrialización tecnológica ha traído nuevas metodologías de trabajo enfocadas en la optimización, la productividad y el ahorro de recursos. La llegada de las tecnologías de la información (IT) también ha impulsado nuevas formas de interacción entre las máquinas, los operarios y los directivos, ampliando el abanico de la capacidad productiva.
+Cuanto más amplio sea ese abanico, mayor será el grado de especialización de la tecnología industrial que elegiremos para nuestra fábrica. Y dicha tecnología industrial puede traducirse en varias categorías: herramientas, aplicaciones, dispositivos, maquinaria, sensores, etc.
+
+
+## Proyección de cada epoca 
+En este apartado se van a dar a conocer lo que se va a a proyectar en RA volution en cada epoca determinada 
+#### Prehistoria 
+- Modelo 3D: Herramientas de piedra 
+- Imagen: caza 
+- Animación: recolección de alimentos
+#### Antigüedad 
+- Modelo 3d: pirámides de Giza 
+- Carrusel Imagen: inicios de matemáticas y escritura 
+- Video: calendarios 
+#### Edad Media 
+- Modelo 3D: Reloj armador 
+- Imagen: tenedor 
+- Video/ animación: Molinos 
+#### Edad Moderna 
+- Modelo 3D: imprenta
+- Imagen: Viaje a nuevos territorios 
+- Video/ Animación: Telescopio
+#### Edad Contemporánea  
+- Modelo 3D: Tren o maquina a vapor 
+- Imagen de carrusel: Electricidad, Computadoras e Internet
+- Video/ Animación: Viaje espaciales 
+#### Avances tecnológicos 
+- Modelo 3D: moléculas (Nanotecnología)
+- Carrusel de Imagen: IA, Computación cuántica, Machine learning
+- Video/ Animación: Realidades (Aumentada, Virtual e Híbrida)
+#### Impacto en las otras áreas
+- Video con todos los temas 
