@@ -28,13 +28,11 @@ Tiempo: Un período de 4 meses.
 ### Prehistoria
 Entre la aparición de los homínidos antecesores del Homo sapiens y las primeras representaciones escritas se abrió un extenso periodo de tiempo en el que las sociedades primitivas se desarrollaron a diferente ritmo en función del lugar, lo que no pone de acuerdo a los expertos sobre la fecha de finalización de la Prehistoria. El primer periodo de la Prehistoria fue la Edad de Piedra, que abarca el Paleolítico, el Mesolítico y el Neolítico y está marcada por el paso de la vida nómada a los asentamientos permanentes y el desarrollo de la agricultura y la ganadería. El segundo periodo es la Edad de los Metales: cobre, bronce y hierro, etapas en las que el hombre realiza avances dentro de la metalurgia. La Prehistoria nos ha dejado las muestras artísticas más antiguas, conocidas como pinturas rupestres. A continuación presentaremos los temas mas destacables de este tiempo
 #### Uso del fuego
-El fuego tuvo un papel fundamental en la evolución de la humanidad, ya que facilito la vida de los primeros homínidos.
-El fuego fue uno de los descubrimientos más transformadores en la historia de la humanidad. Su control marcó un antes y un después en la vida de los primeros homínidos, ya que no solo facilitó la supervivencia, sino que también promovió avances culturales, sociales y tecnológicos que definirían nuestro desarrollo como especie.
+El fuego tuvo un papel fundamental en la evolución de la humanidad, ya que facilito la vida de los primeros homínidos. Fue uno de los descubrimientos más transformadores en la historia de la humanidad. Su control marcó un antes y un después en la vida de los primeros homínidos, ya que no solo facilitó la supervivencia, sino que también promovió avances culturales, sociales y tecnológicos que definirían nuestro desarrollo como especie.
 #### Herramientas
 Las hermanitas de piedra fueron una de las grandes conquistas de la prehistoria y se utilizaron para cortar, raspar, machacar, trabajar la madera y
 despiezar la caza.
-Las primeras herramientas de piedra se conocen como herramientas olduvayenses y datan de hace unos 1.8 millones de años.
-Las herramientas de piedra representan uno de los avances más significativos en la historia de la humanidad. Su aparición marcó un hito crucial en la prehistoria, ya que estas herramientas permitieron a nuestros antepasados interactuar de manera más eficiente con su entorno, garantizar su supervivencia y, eventualmente, sentar las bases de las civilizaciones modernas.
+Las primeras herramientas de piedra se conocen como herramientas olduvayenses y datan de hace unos 1.8 millones de años. y representan uno de los avances más significativos en la historia de la humanidad. Su aparición marcó un hito crucial en la prehistoria, ya que estas herramientas permitieron a nuestros antepasados interactuar de manera más eficiente con su entorno, garantizar su supervivencia y, eventualmente, sentar las bases de las civilizaciones modernas.
 #### Revolución Agricola
 Con la domesticación de plantas y animales, los humanos pasaron de ser cazadores-recolectores a asentarse en un lugar fijo. La agricultura permitió el
 desarrollo de comunidades y el almacenamiento de alimentos.
@@ -92,19 +90,41 @@ travesía, En 1498 Colón emprendió un tercer viaje, esta vez llegó a la isla 
 
 
 ### Edad contemporánea
+es el período histórico que abarca desde el inicio de la Revolución francesa en 1789 hasta la actualidad. Durante la Edad Contemporánea se dieron las revoluciones industriales que transformaron las formas de producción, las relaciones de trabajo y el modo de vida de gran parte de la población. Desde fines del siglo XVIII, se produjeron revoluciones liberales que buscaron implementar regímenes políticos acordes al nuevo sistema económico capitalista que, a su vez, se consolidó a nivel mundial.
+
 #### Máquina de vapor 
+La máquina de vapor del escocés James Watt fue inventada en 1765 y patentada en 1769. Las máquinas de Watt fueron construidas en 1774 por una empresa propiedad del inventor en sociedad con el empresario inglés Matthew Boulton.
+En el siglo XIX, la máquina de vapor permitió el desarrollo del transporte; donde se produjo en la revolución industrial 
+
 #### Tren de vapor
+En este formato los visitantes podrán apreciar la primera locomotora de vapor, construida por el ingeniero inglés Richard Trevithick en 1803, y de la Rocket, fabricada en 1829 por George Stephenson. La locomotora es una gran maquinaria de hierro colado, con una gran caldera alimentada por agua. El vapor que genera sale por unas válvulas e impulsa alternadamente dos pistones que a su vez mueven unas bielas que hacen girar las ruedas.
+
 #### Electricidad
+El físico italiano Alessandro Volta, quien descubrió que determinadas reacciones químicas podían producir electricidad y que construyó la pila voltaica (una de las primeras baterías) Pero fue en 1831 cuando la electricidad se volvió más segura y viable para su uso en tecnología, cuando el científico británico Michael Faraday desarrolló el dínamo eléctrico, un generador de energía eléctrica a partir de movimiento que resolvió el problema de generar corriente eléctrica de una manera continua y práctica.
+
 #### Computadoras
+La generación inicial de computadores inicia con la invención de las primeras máquinas de cálculo automáticas, que podían considerarse propiamente un “computador”. Respondían a la necesidad durante la Segunda Guerra Mundial de descifrar códigos secretos enemigos. 
+
 #### Internet
+Desde finales de los años 1960 hasta la actualidad, internet ha crecido y evolucionado desde una única red totalmente experimental en Estados Unidos hasta una red en línea que conecta millones de dispositivos en todo el mundo. la historia de internet comienza con los primeros descubrimientos sobre redes formulados entre bastidores de la Guerra Fría entre Estados Unidos y la antigua Unión Soviética, que se materializaron en la creación de ARPAnet, desarrollada por el proyecto Advanced Research Project Agency (ARPA), perteneciente al Departamento de Defensa estadounidense y que pretendía intercambiar información con los agentes de las misiones. 
+
 #### Viajes espaciales
+El 4 de octubre de 1957, cuando parecía que EEUU estaba en cabeza con respecto al desarrollo de tecnología espacial, la URSS se adelantó y lanzó Sputnik-1, el primer satélite artificial de la historia. Fue enviado al espacio desde el cosmódromo de Baikonur (Kazajistán). Su interior, presurizado con nitrógeno, constaba con instrumentos con los que los investigadores esperaban medir la temperatura de la capa externa de la atmósfera y dos transmisores de radio.
+
 
 
 ### Avances tecnológicos
 #### IA 
+La Inteligencia Artificial (IA) es una rama de la informática que se enfoca en desarrollar sistemas y programas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas incluyen aprender, razonar, resolver problemas, comprender el lenguaje, tomar decisiones y reconocer patrones, entre otras.
 #### Computación cuántica
+Es un campo multidisciplinario que aúna aspectos de ciencias de la computación, física y matemáticas y utiliza mecánicas cuánticas para resolver problemas complejos más rápido que las computadoras clásicas. Este campo incluye investigación de hardware y desarrollo de aplicaciones. Las computadoras cuánticas son capaces de resolver ciertos tipos de problemas más rápido que las computadoras clásicas, ya que sacan partido de los efectos de la mecánica cuántica, como la superposición y la interferencia cuántica.
+
 #### Machine learning
+El 'machine learning' (aprendizaje automático) es una rama de la inteligencia artificial que permite que las máquinas aprendan ciertas tareas sin ser programadas de manera específica para ellas. Para ello, utilizan estadísticas para predecir y reconocer patrones, por ello funcionan mejor en grandes conjuntos de datos.
+
 #### Nanotecnología
+Es un campo inherentemente multidisciplinario y emergente en el cual se conjuntan la física, la biología, la química, la ingeniería y las ciencias sociales. Su objetivo es entender, caracterizar, manipular y explotar las características físicas de la materia a la nanoescala, para generar innovaciones tecnológicas teniendo en consideración su impacto social y ambiental. Se trata de una tecnología clave que constituye una de las áreas que aportará mayor desarrollo al siglo XXI al originar aplicaciones basadas en los fenómenos que suceden a escalas atómicas (1 nanómetro es 1 millonésimo de milímetro).
+
 #### Realidades (Aumentada, Virtual e Híbrida)
 
 
