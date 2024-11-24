@@ -184,4 +184,4 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 - Video/ Animación: Realidades (Aumentada, Virtual e Híbrida)
 #### Impacto en las otras áreas
 - Video con todos los temas 
-![pexels-donaldtong94-65322](https://github.com/user-attachments/assets/fe103114-4c90-45af-b417-abb144ef332a)
+
