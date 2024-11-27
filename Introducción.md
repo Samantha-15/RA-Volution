@@ -185,7 +185,3 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 #### Impacto en las otras áreas
 - Video con todos los temas.
 ## Diccionari de datos 
-<img width="269" alt="diccionario de datos" src="https://github.com/user-attachments/assets/fd4bee07-0421-4a13-8af1-77d1d1219b9a">
-
-
-<img width="272" alt="diccionario de datos 2" src="https://github.com/user-attachments/assets/903fbc23-12d0-4bec-bc03-6f1fc6a77f3d">
