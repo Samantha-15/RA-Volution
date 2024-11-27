@@ -183,5 +183,6 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 - Carrusel de Imagen: IA, Computación cuántica, Machine learning
 - Video/ Animación: Realidades (Aumentada, Virtual e Híbrida)
 #### Impacto en las otras áreas
-- Video con todos los temas 
+- Video con todos los temas
+#Diccionario de datos 
 
