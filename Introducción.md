@@ -185,9 +185,4 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 #### Impacto en las otras áreas
 - Video con todos los temas.
 ## Diccionari de datos 
-<img width="269" alt="diccionario de datos" src="https://github.com/user-attachments/assets/336ba5c9-8382-4490-817a-d57ba9697fbb">
-
-<img width="272" alt="diccionario de datos 2" src="https://github.com/user-attachments/assets/524046c2-24fa-4497-8de2-224aa7b9e8ef">
-
-column|nfcejnf|jedu|
-2      |       |    |
+<img width="647" alt="diccionario" src="https://github.com/user-attachments/assets/c1a06ebb-7703-4ba1-8860-2eb5ede25b74">
