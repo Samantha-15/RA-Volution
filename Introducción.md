@@ -188,10 +188,10 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 <img width="581" alt="diccionarios" src="https://github.com/user-attachments/assets/af4f8889-8a9d-4c9d-be3a-f1e261dfb214">
 
 ## Minutas
-![Modelado](https://github.com/user-attachments/assets/2d52bd27-d2b3-4869-b4e8-f61ba5bca598)
-![Copia de Celeste Blanco Minimalista Líneas Degradé Minutas de Reunión](https://github.com/user-attachments/assets/c6d71ec6-5979-4383-89e9-b20de084f7d8)
-![Copia de Celeste Blanco Minimalista Líneas Degradé Minutas de Reunión (2)](https://github.com/user-attachments/assets/0d936add-010d-4b45-b725-20447dba05fe)
-![Copia de Celeste Blanco Minimalista Líneas Degradé Minutas de Reunión (1)](https://github.com/user-attachments/assets/52179c39-97b8-4672-a8cd-966fe47a370d)
+![Modelado](https://github.com/user-attachments/assets/0e7c7e9e-3938-409e-bac6-c09692105126)
+![logo](https://github.com/user-attachments/assets/adb12402-f8e1-446e-b478-237f7b8c88cd)
+![animacion](https://github.com/user-attachments/assets/50dccb61-8a14-4960-858e-71f868bb473f)
+
 
 
 
