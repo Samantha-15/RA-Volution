@@ -185,4 +185,13 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 #### Impacto en las otras áreas
 - Video con todos los temas.
 ## Diccionari de datos 
-<img width="647" alt="diccionario" src="https://github.com/user-attachments/assets/c1a06ebb-7703-4ba1-8860-2eb5ede25b74">
+<img width="581" alt="diccionarios" src="https://github.com/user-attachments/assets/af4f8889-8a9d-4c9d-be3a-f1e261dfb214">
+
+## Minutas
+![Modelado](https://github.com/user-attachments/assets/2d52bd27-d2b3-4869-b4e8-f61ba5bca598)
+![Copia de Celeste Blanco Minimalista Líneas Degradé Minutas de Reunión](https://github.com/user-attachments/assets/c6d71ec6-5979-4383-89e9-b20de084f7d8)
+![Copia de Celeste Blanco Minimalista Líneas Degradé Minutas de Reunión (2)](https://github.com/user-attachments/assets/0d936add-010d-4b45-b725-20447dba05fe)
+![Copia de Celeste Blanco Minimalista Líneas Degradé Minutas de Reunión (1)](https://github.com/user-attachments/assets/52179c39-97b8-4672-a8cd-966fe47a370d)
+
+
+
