@@ -186,14 +186,19 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 - Video con todos los temas.
 
 ## Logo 
-En la giuiente imagen se mostrara el logo que representara a nuestro proyecto. A continuación explicaremos el significado de este y la paleta de colores seleccionada 
+En la giuiente imagen se mostrara el logo que representara a nuestro proyecto. A continuación explicaremos el significado de este y la paleta de colores seleccionada <br>
+<div align="center">
+  <img width="581" alt="LOGO" src="https://github.com/Samantha-15/RA-Volution/blob/main/LOGOO%20RA_Mesa%20de%20trabajo%201.png">
+</div> <br> 
 Como podemos analizar en la imagen podemos encontrar nl pulpo en nuestro logo, el cual simboliza inteligencia, flexibilidad y adaptabilidad. Los colores que lo acompañan —el azul y el morado— refuerzan estos atributos: el azul representa la fuerza, la tecnología y la inteligencia, mientras que el morado refleja la creatividad y la innovación.
  Este animal marino, conocido por su capacidad de evolucionar y adaptarse a diferentes entornos, es el reflejo perfecto de la tecnología, que avanza constantemente, desde los aspectos más pequeños hasta los más grandes. El pulpo no solo es un símbolo visual; también representa cómo la tecnología, al igual que este ser, sigue evolucionando. Desde la prehistoria hasta la actualidad, la humanidad ha ido creando herramientas cada vez más complejas, y ahora, al integrar la realidad aumentada, estamos dando paso a una nueva forma de interactuar con el conocimiento, tal como lo haría nuestro museo de realidad aumentada.
 Nuestro logo, por tanto, no solo muestra un animal, sino que encapsula el dinamismo y la evolución constante de la tecnología, el pensamiento innovador y la creación de nuevas realidades
 
 #### Paleta de colores 
-Los colores seleccionados del proyecto como se menciono antes tienen una razon de eleccion y en este apartado explicaremos mas a detalle lo que simboloza cada uno de los siguientes colores. 
-
+Los colores seleccionados del proyecto como se mencionó antes tienen una razón de elección y en este apartado explicaremos más a detalle lo que simboloza cada uno de los siguientes colores. 
+<div align="center">
+  <img width="320" alt="LOGO" src="https://github.com/Samantha-15/RA-Volution/blob/main/tareia.jpg">
+</div> <br>
 
 
 ## Diccionario de datos 
