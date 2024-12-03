@@ -186,7 +186,7 @@ En este apartado se van a dar a conocer lo que se va a a proyectar en RA volutio
 - Video con todos los temas.
 
 ## Logo 
-En la giuiente imagen se mostrara el logo que representara a nuestro proyecto. A continuación explicaremos el significado de este y la paleta de colores seleccionada <br>
+En la siguiente imagen se mostrara el logo que representara a nuestro proyecto. A continuación explicaremos el significado de este y la paleta de colores seleccionada <br>
 <div align="center">
   <img width="581" alt="LOGO" src="https://github.com/Samantha-15/RA-Volution/blob/main/LOGOO%20RA_Mesa%20de%20trabajo%201.png">
 </div> <br> 
